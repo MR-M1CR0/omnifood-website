@@ -1,1 +1,1 @@
-Live Demo https://omnifood-mahfouz.netlify.app/
+https://omnifood-mahfouz.netlify.app/
